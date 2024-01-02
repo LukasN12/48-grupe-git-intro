@@ -1,1 +1,1 @@
-const smart = 'very'
+const smart = 'very';
