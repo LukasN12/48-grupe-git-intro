@@ -4,6 +4,7 @@
     "description": "Izanga i kaip naudotis GIT ir kam jis reikalingas",
     "main": "index.js",
     "scripts": {
+        "naujas": "echo \"Error: no test specified1\" && exit 1",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [],
