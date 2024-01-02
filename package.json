@@ -1,0 +1,15 @@
+{
+    "name": "48-grupe-git-intro",
+    "version": "1.0.0",
+    "description": "Izanga i kaip naudotis GIT ir kam jis reikalingas",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Krinta Dangus (https://atmazai.lt/)",
+    "license": "UAB",
+    "devDependencies": {
+      "nodemon": "^3.0.2"
+    }
+  }
